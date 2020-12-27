@@ -1,1 +1,1 @@
-# Stock-Pridict
+# Stock-Predict
